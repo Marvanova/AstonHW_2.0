@@ -20,19 +20,19 @@ public class Main {
         System.out.println();
 
         System.out.println("Задание 5");
-        Task_5.sumInRange();
+        Task_5.sumInRange(5,6);
         System.out.println();
 
         System.out.println("Задание 6");
-        Task_6.printPositiveOrNegative();
+        Task_6.printPositiveOrNegative(6);
         System.out.println();
 
         System.out.println("Задание 7");
-        Task_7.printPositiveOrNegative2();
+        Task_7.printPositiveOrNegative2(-6);
         System.out.println();
 
         System.out.println("Задание 8");
-        Task_8.printStringTimes();
+        Task_8.printStringTimes("Пятница",5);
         System.out.println();
 
         System.out.println("Задание 9");
@@ -56,7 +56,7 @@ public class Main {
         System.out.println();
 
         System.out.println("Задание 14");
-        Task_14.twoArgsArray();
+        Task_14.twoArgsArray(4,6);
         System.out.println();
     }
 }

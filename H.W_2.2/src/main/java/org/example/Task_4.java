@@ -1,13 +1,9 @@
 package org.example;
-import java.util.Random;
 
 public class Task_4 {
     public static void compareNumbers() {
-        Random random = new Random();
-        int a = random.nextInt(5);
-        int b = random.nextInt(5);
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
+        int a = 5;
+        int b = 1;
         if (a >= b) {
             System.out.println("a >= b");
         }

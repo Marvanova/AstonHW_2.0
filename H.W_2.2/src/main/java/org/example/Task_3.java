@@ -1,11 +1,8 @@
 package org.example;
-import java.util.Random;
 
 public class Task_3 {
     public static void printColor() {
-        Random random = new Random();
-        int value = random.nextInt(200) - 50;
-        System.out.println("value = " + value);
+        int value = 50;
         if (value <= 0) {
             System.out.println("Красный");
         }
