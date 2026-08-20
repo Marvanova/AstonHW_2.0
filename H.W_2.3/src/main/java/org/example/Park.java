@@ -1,14 +1,12 @@
 package org.example;
 
 public class Park {
-    public class  Attractions{
-        private String name;
+    private Attractions attractions;
+    public class Attractions{
         private String workingHours;
         private double price;
     }
 }
-
-
 
 
 //информацию об аттракционах, времени их работы и стоимости
