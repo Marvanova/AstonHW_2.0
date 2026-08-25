@@ -4,15 +4,15 @@ public class Main {
     public static void main(String[] args) {
        Cat cat1 = new Cat("Кузя");
        Cat cat2 = new Cat("Барсик");
-       Cat cat3 = new Cat("Кузя2");
-       Cat cat4 = new Cat("Барсик2");
-       Cat cat5 = new Cat("Кузя3");
-       Cat cat6 = new Cat("Барсик3");
-       Cat cat7 = new Cat("Кузя4");
-       Cat cat8 = new Cat("Барсик4");
-       Cat cat9 = new Cat("Барсик5");
-       Cat cat10 = new Cat("Кузя5");
-       Cat cat11 = new Cat("Барсик6");
+       Cat cat3 = new Cat("Мурка");
+       Cat cat4 = new Cat("Тоша");
+       Cat cat5 = new Cat("Дуся");
+       Cat cat6 = new Cat("Лада");
+       Cat cat7 = new Cat("Мурзик");
+       Cat cat8 = new Cat("Рыжик");
+       Cat cat9 = new Cat("Персик");
+       Cat cat10 = new Cat("Кот");
+       Cat cat11 = new Cat("Конфетка");
 
 
        Dog dog1 = new Dog("Мухтар");
